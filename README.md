@@ -1,5 +1,7 @@
-# BTTF Clock リベンジ
-およそ2年前、BTTFの時計を作ったのですが、それはひどい出来だったので、
-25年度の年末を全ぶっぱしてちまちま作りました。
+# BTTF Clock Part2
 
-携帯で見てもある程度はマシに表示されるように作ってます。
+About two years ago, I attempted to construct a Time Circuit display... but the results were disastrous! 
+
+However, I've dedicated my entire end of this year to rectify the timeline. ~~I carefully rebuilt the flux capacitor logic and calibration from scratch.~~
+
+Even on your handheld mobile communicators, the display renders with absolute precision. It actually fits the screen.
