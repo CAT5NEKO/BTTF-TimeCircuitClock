@@ -1,4 +1,5 @@
-# BTTF Clock Part2
+# BTTF-TimeCircuitClock 
+### Back To The Future Time Circuit Clock On Web
 
 About two years ago, I attempted to construct a Time Circuit display... but the results were disastrous! 
 
